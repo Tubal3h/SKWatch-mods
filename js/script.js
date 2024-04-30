@@ -308,7 +308,7 @@ function watches() {
         $('.w-data-container img').removeClass('w50').addClass('w100')
         $('#w-data').removeClass('flex').addClass('w100')
         $('#w-text-container').removeClass('w50').addClass('w100')
-        $('#w-img-container').removeClass('50').addClass('w100')
+        $('#w-img-container').removeClass('w50').addClass('w100')
     } else {
         $("header").removeClass("w100");
         $('#w-img-container').removeClass('w50').addClass('w100')
