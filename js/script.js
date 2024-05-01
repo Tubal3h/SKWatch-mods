@@ -311,7 +311,7 @@ function watches() {
         $('#w-img-container').removeClass('w50').addClass('w100')
     } else {
         $("header").removeClass("w100");
-        $('#w-img-container').removeClass('w50').addClass('w100')
+        $('#w-img-container').removeClass('w100').addClass('w50')
         $("#menu").html(
             `
             <a href="../../index.html" id="logo" class="">
