@@ -69,8 +69,8 @@ function index() {
             <img class="section-img w100" id="section-2-img"src="css/img/sk-sub-BB.jpg" alt="">
             <div id="section-2-2" class="flex center w100">
                 <div id="" class="section-text">
-                    <h1 id="section-2-2-h1" class="text-clr-2">Esplora i Classici: Orologi Storici come il Nautilus, Yacht Master e Altri</h1>
-                    <p id="section-2-2-p" class="text-clr-1">
+                    <h1 id="section-2-2-h1" class="text-clr-2 p-1">Esplora i Classici: Orologi Storici come il Nautilus, Yacht Master e Altri</h1>
+                    <p id="section-2-2-p" class="text-clr-1 p-1">
                         Da SK-Watch Mods, ti presentiamo una selezione curata di orologi storici che hanno lasciato un'impronta indelebile nella storia dell'orologeria. Dai prestigiosi modelli come il Nautilus ai classici intramontabili come il Yacht Master, offriamo una vasta gamma di orologi che incarnano eleganza, innovazione e prestigio.
                             Il Nautilus, con il suo design distintivo e la sua eredità leggendaria, è una scelta popolare tra gli amanti degli orologi che apprezzano l'artigianato e lo stile senza tempo. Il Yacht Master, con la sua resistenza all'acqua e la sua robustezza, è l'emblema dell'avventura e della precisione tecnica.
                             Tuttavia, sappiamo che ogni individuo ha gusti e preferenze uniche. È per questo che offriamo la possibilità di richiedere modelli specifici che potrebbero non essere elencati nel nostro catalogo. Basta contattarci su Telegram e faremo del nostro meglio per soddisfare le tue richieste, trovando l'orologio perfetto che rispecchia il tuo stile e la tua personalità.
@@ -117,8 +117,8 @@ function index() {
             $("#section2").html(`
             <div id="section-2-2" class="flex center">
             <div id="" class="section-text  ">
-                <h1 id="section-2-2-h1" class="text-clr-2">Esplora i Classici: Orologi Storici come il Nautilus, Yacht Master e Altri</h1>
-                <p id="section-2-2-p" class="text-clr-1">
+                <h1 id="section-2-2-h1" class="text-clr-2 p-1">Esplora i Classici: Orologi Storici come il Nautilus, Yacht Master e Altri</h1>
+                <p id="section-2-2-p" class="text-clr-1 p-1">
                     Da SK-Watch Mods, ti presentiamo una selezione curata di orologi storici che hanno lasciato un'impronta indelebile nella storia dell'orologeria. Dai prestigiosi modelli come il Nautilus ai classici intramontabili come il Yacht Master, offriamo una vasta gamma di orologi che incarnano eleganza, innovazione e prestigio.
 
 Il Nautilus, con il suo design distintivo e la sua eredità leggendaria, è una scelta popolare tra gli amanti degli orologi che apprezzano l'artigianato e lo stile senza tempo. Il Yacht Master, con la sua resistenza all'acqua e la sua robustezza, è l'emblema dell'avventura e della precisione tecnica.

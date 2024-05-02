@@ -227,16 +227,15 @@ footer{
 /* -------------------------------------------------------------------------- */
 /*                                    Home                                    */
 /* -------------------------------------------------------------------------- */
-.section {
-    height: 800px;
-    /* box-sizing: border-box; */
-}
+/* .section {
+    max-width: 
+} */
 
 .section-text {
     /* background-color: var(--color4); */
     /* width: 80%; */
     /* height: 500px; */
-    margin: 50px;
+    /* margin: 50px; */
     align-items: center;
     text-align: center;
     justify-content: center;
